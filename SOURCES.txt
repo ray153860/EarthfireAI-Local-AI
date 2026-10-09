@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/earthfireai_core/__init__.py
+src/earthfireai_core/cli.py
+src/earthfireai_core/client.py
+src/earthfireai_core/config.py
+src/earthfireai_local_ai.egg-info/PKG-INFO
+src/earthfireai_local_ai.egg-info/SOURCES.txt
+src/earthfireai_local_ai.egg-info/dependency_links.txt
+src/earthfireai_local_ai.egg-info/entry_points.txt
+src/earthfireai_local_ai.egg-info/top_level.txt
+tests/test_client.py
